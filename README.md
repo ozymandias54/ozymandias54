@@ -1,6 +1,7 @@
 
 ## 👋 Hello! 
-Software engineer with 7+ years of experience.  Worked for innovative startups, large enterprise products, and award-winning agencies.  Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver faster than expected.  Comfortable for web, mobile, and API development.
+
+Ingénieur logiciel avec plus de 7 ans d'expérience. A travaillé pour des startups innovantes, des produits pour grandes entreprises et des agences primées. Familiarisé avec le travail à distance et au bureau. Cherchant toujours à s'approprier le projet et à le livrer plus rapidement que prévu. Confortable pour le développement Web, mobile et API.
 
 
 ## 🛠️ Technologies & Tools
@@ -15,8 +16,8 @@ Software engineer with 7+ years of experience.  Worked for innovative startups, 
 ![](https://img.shields.io/badge/Tool-SCSS-informational?style=flat&color=warning&logo=sass)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
 
-## 📊 Statistics
-
+## 📊 DETAIL
+Pour plus de details, aller voir [mon site](https://rootcoder.dev/)
 
 <!--
 **AntonioErdeljac/AntonioErdeljac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
